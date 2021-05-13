@@ -1,0 +1,78 @@
+body {
+    background-color: green;
+    border: 5px dashed #1E40FF;
+}
+
+h4 {
+    font-family: Nosifer;
+    color: lime;
+    font-size: 22px;
+    text-align: center;
+}
+
+.d0 {
+    border: 10px ridge orange;
+    padding: 5px;
+    margin: 10px;
+    background: #FF781B;
+    text-align: center;
+    font-family:oxygen;
+}
+
+.d1 {
+    border: 10px ridge lime;
+    padding: 5px;
+    margin: 10px;
+    background: #77FF48;
+    text-align: center;
+font-family:oxygen;    
+}
+
+.d2 {
+    border: 10px ridge brown;
+    padding: 5px;
+    margin: 10px;
+    background: #8E4033;
+    text-align: center;
+    font-family:oxygen;
+}
+
+.d3 {
+    border: 10px ridge purple;
+    padding: 5px;
+    margin: 10px;
+    background: #9822FA;
+    text-align: center;
+    font-family:oxygen;
+}
+
+.d4 {
+    border: 10px ridge red;
+    padding: 5px;
+    margin: 10px;
+    background: #FA2222;
+    font-family: rye;
+    text-align: center;
+}
+
+.created {
+    font-family: Neucha;
+    color: #1E40FF;
+}
+
+.sources {
+    border: 10px ridge grey;
+    padding: 5px;
+    margin: 10px;
+    background: #9B938E;
+    text-align: center;
+}
+
+.unordered {
+    font-family: sail;
+}
+
+img {
+    width: 230px;
+    border: 5px dotted green;
+}
